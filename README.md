@@ -4,3 +4,24 @@
 
 - 配置好了ignore文件
 - 加入JUnit支持
+
+
+源码的目录结构如下：
+
+src
+├─main
+│  ├─java
+│  │  └─com
+│  │      └─github
+│  │          └─yanhua365
+│  │              └─qstart
+│  │                  └─sample
+│  └─resources
+└─test
+    ├─java
+    │  └─com
+    │      └─github
+    │          └─yanhua365
+    │              └─qstart
+    │                  └─sample
+    └─resources
